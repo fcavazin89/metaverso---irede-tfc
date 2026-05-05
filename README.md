@@ -1,7 +1,7 @@
 PROJETO FINAL: MEU PRIMEIRO AMBIENTE VR
-Aluno: [SEU NOME COMPLETO]
-Curso: [NOME DO CURSO]
-Data: [DD/MM/AAAA]
+Aluno: Tiago Ferreira Cavazin
+Curso: Web 3.0
+Data: 05/05/2026
 
 📌 DESCRIÇÃO
 Ambiente virtual navegável desenvolvido em Unity com suporte a Meta XR SDK.
@@ -31,6 +31,6 @@ Cena contém chão, skybox configurado, 5+ objetos 3D e movimentação testada e
 - Testes iterativos no Editor antes do deploy
 
 🔗 REPOSITÓRIO
-https://github.com/[SEU_USUARIO]/[NOME_DO_REPO]
+https://github.com/fcavazin89/metaverso---irede-tfc
 
-© 2024 - Projeto acadêmico. Uso educacional.
+© 2026 - Projeto acadêmico. Uso educacional.
