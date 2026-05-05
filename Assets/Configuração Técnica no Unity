@@ -1,0 +1,20 @@
+Configuração Técnica no Unity 
+
+Instalar Meta XR SDK
+Window > Package Manager
+Troque Packages: My Assets para Packages: Unity Registry
+Busque por Meta XR SDK ou com.meta.xr.sdk.all → clique em Install
+XR Plugin Management
+Edit > Project Settings > XR Plug-in Management
+Marque Initialize XR on Startup
+Em PC, Mac & Linux Standalone e Android, marque OpenXR (ou Meta XR Plugin se disponível)
+Build Settings para Android
+File > Build Settings
+Selecione Android → clique em Switch Platform
+Clique em Player Settings → em Other Settings → Target API Level = Android 10.0 (API level 29) ou superior
+Teste no PC
+Na Hierarchy, crie um Capsule (será o jogador)
+Adicione CharacterController ao Capsule
+Adicione o script PlayerMovement
+Crie um Plane (chão) e 5 objetos 3D (Cubes, Spheres, etc.)
+Pressione Play e teste com WASD ou setas
