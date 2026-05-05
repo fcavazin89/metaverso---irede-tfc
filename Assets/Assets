@@ -1,0 +1,6 @@
+Assets/
+├── Scenes/          → Salve sua cena aqui como `MainScene.unity`
+├── Scripts/         → Cole os códigos abaixo aqui
+├── Prefabs/         → (vazio por enquanto, ok)
+├── Materials/       → (vazio ou com materiais básicos)
+└── Textures/        → (opcional)
